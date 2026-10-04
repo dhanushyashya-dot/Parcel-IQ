@@ -1,0 +1,501 @@
+Origin Country,Origin City,Origin State,Origin Postal Code,Destination City,Destination State/Province,Destination Postal Code,Parcel Weight - lbs,Parcel Chargeable Weight - lbs.,Parcel Length - Inches,Parcel Width - Inches,Parcel Height - Inches,Carrier,Zone,Service Level,Residential Flag,Oversize Flag,DIM Weight Applied,Carrier Cost,Delivery Status,Item Description
+US,Newark,NJ,07101,Phoenix,ARIZONA,85037,8,8,16,14,3,UPS,8,2-Day,Y,N,N,30.57,On Time,Dress
+US,Newark,NJ,07101,PINCKNEYVILLE,IL,62274,1,1,20,6,3,FedEx,5,Ground,N,N,N,10.95,Late,Sweater
+US,Newark,NJ,07101,Reno,NV,89503,1,1,14,11,5,FedEx,8,2-Day,Y,N,N,26.01,On Time,Jacket
+US,Newark,NJ,07101,Cleveland,Ohio,44144,1,1,13,11,4,FedEx,4,2-Day,N,N,N,16.24,On Time,Sneakers
+US,Newark,NJ,07101,Hudson,MAINE,04449,3,3,14,13,4,USPS,4,Ground,Y,N,N,14.0,On Time,T-Shirt
+US,Newark,NJ,07101,San Bernardino,CA,92404,1,1,9,5,5,UPS,8,2-Day,Y,N,N,25.53,On Time,Scarf
+US,Newark,NJ,07101,Woodbridge,VIRGINIA,22191,2,2,15,14,4,USPS,3,Ground,Y,N,N,12.75,On Time,Coat
+US,Newark,NJ,07101,BULLS GAP,Tennessee,37711,3,3,14,14,5,FedEx,5,2-Day,Y,N,N,23.61,On Time,Coat
+US,Newark,NJ,07101,Kearney,NE,68847,3,3,14,13,2,UPS,6,Ground,N,N,N,12.35,On Time,Sweater
+US,Newark,NJ,07101,Camas,WA,98607,1,1,12,12,3,FedEx,8,2-Day,Y,N,N,26.01,On Time,Blouse
+US,Newark,NJ,07101,PHOENIX,Arizona,85054-5738,5,5,16,14,6,FedEx,8,Ground,N,N,N,15.15,On Time,Skirt
+US,Newark,NJ,07101,Ellicott City,MD,21043,1,1,11,8,7,UPS,2,Ground,Y,N,N,12.9,On Time,Scarf
+US,Newark,NJ,07101,Hallsville,Missouri,65255,3,3,13,10,5,FedEx,5,2-Day,Y,N,N,23.61,On Time,Scarf
+US,Newark,NJ,07101,North Richland Hills,TEXAS,76182,2,2,12,11,3,FedEx,7,2-Day,Y,N,N,25.45,Late,Boots
+US,Newark,NJ,07101,Saint Paul,MN,55124-6614,1,1,14,13,4,UPS,6,2-Day,N,N,N,18.32,On Time,Sandals
+US,Newark,NJ,07101,Northampton,PENNSYLVANIA,18067,2,2,13,10,3,UPS,2,2-Day,Y,N,N,18.57,On Time,Sneakers
+US,Newark,NJ,07101,Easley,SOUTH CAROLINA,29642,2,2,17,13,5,FedEx,5,Ground,Y,N,N,16.05,On Time,Blouse
+US,Newark,NJ,07101,New York,New York,10009,2,2,12,10,4,UPS,2,Ground,Y,N,N,13.35,On Time,Dress
+US,Newark,NJ,07101,Minneapolis,MN,55438-1121,2,2,12,10,2,USPS,6,Ground,Y,N,N,15.15,On Time,Hoodie
+US,Newark,NJ,07101,MOKENA,IL,60448-7897,1,1,13,12,3,FedEx,5,2-Day,N,N,N,17.52,On Time,Sandals
+US,Newark,NJ,07101,Las Vegas,NEVADA,89115,2,2,17,17,7,USPS,8,Overnight,Y,N,N,33.69,On Time,Skirt
+US,Newark,NJ,07101,Stuart,FLORIDA,34997,1,1,13,10,3,UPS,6,2-Day,Y,N,N,22.97,On Time,Leggings
+US,Newark,NJ,07101,Clovis,New Mexico,88101-1612,1,1,16,14,6,FedEx,8,2-Day,N,N,N,21.36,On Time,Sneakers
+US,Newark,NJ,07101,East Hampton,CONNECTICUT,06424,2,2,12,10,4,FedEx,2,2-Day,Y,N,N,19.05,On Time,Boots
+US,Newark,NJ,07101,Newnan,GEORGIA,30263,2,2,5,4,2,DHL,5,2-Day,Y,N,N,23.69,On Time,Leggings
+US,Newark,NJ,07101,Turlock,California,95382,3,3,16,10,5,FedEx,8,2-Day,N,N,N,22.8,On Time,Coat
+US,Newark,NJ,07101,Pomona,California,91766,3,3,16,13,3,FedEx,8,Overnight,Y,N,N,38.85,On Time,Shorts
+US,Newark,NJ,07101,Berlin,CONNECTICUT,06037,2,2,11,7,3,FedEx,2,Ground,N,N,N,9.0,On Time,Scarf
+US,Newark,NJ,07101,Longmont,Colorado,80504,4,4,14,12,5,USPS,7,Ground,Y,N,N,16.85,On Time,Shorts
+US,Newark,NJ,07101,Emerson,NEW JERSEY,07630,2,2,15,15,4,UPS,2,Ground,Y,N,N,13.35,Lost,Dress
+US,Newark,NJ,07101,APOPKA,Florida,32712,3,3,15,13,6,USPS,6,Ground,Y,N,N,15.6,On Time,Jacket
+US,Newark,NJ,07101,La Grange Park,ILLINOIS,60526,2,2,15,14,8,USPS,5,2-Day,Y,N,N,20.17,Lost,Jacket
+US,Newark,NJ,07101,Worthington,KENTUCKY,41183,1,1,15,13,4,UPS,4,2-Day,N,N,N,15.76,On Time,Sweater
+US,Newark,NJ,07101,MCKINNEY,TX,75071-5001,1,1,11,10,7,DHL,7,Ground,Y,N,N,17.7,On Time,Coat
+US,Newark,NJ,07101,Livingston,New Jersey,07039,4,4,13,11,8,UPS,2,2-Day,Y,N,N,20.01,On Time,Leggings
+US,Newark,NJ,07101,WEST STOCKBRIDGE,MA,01266-9223,1,1,14,9,3,UPS,3,2-Day,N,N,N,14.48,On Time,Jeans
+US,Newark,NJ,07101,Ballwin,MO,63021,1,1,13,10,3,USPS,5,Ground,Y,N,N,13.9,Damaged,Boots
+US,Newark,NJ,07101,Las Vegas,Nevada,89117,3,3,11,10,3,UPS,8,2-Day,Y,N,N,26.97,On Time,Dress
+US,Newark,NJ,07101,Arcadia,CA,91006,1,1,10,6,6,USPS,8,2-Day,Y,N,N,23.29,On Time,Sneakers
+US,Newark,NJ,07101,ORLANDO,FL,32804-3924,1,1,15,14,3,UPS,6,Ground,Y,N,N,16.1,On Time,Boots
+US,Newark,NJ,07101,Hilliard,OH,43026-8214,2,2,4,4,2,USPS,4,2-Day,N,N,N,14.24,Late,Sweater
+US,Newark,NJ,07101,Sioux Falls,SD,57108-8741,2,2,15,13,4,FedEx,6,Overnight,Y,N,N,33.93,On Time,Coat
+US,Newark,NJ,07101,Sparta,TENNESSEE,38583,5,5,14,14,3,FedEx,5,Ground,N,N,N,12.75,On Time,Dress
+US,Newark,NJ,07101,Adkins,TX,78101-2724,4,4,14,14,4,FedEx,7,Ground,Y,N,N,18.55,On Time,Sandals
+US,Newark,NJ,07101,TRUMANN,AR,72472,1,1,12,10,5,FedEx,6,2-Day,N,N,N,18.8,On Time,Boots
+US,Newark,NJ,07101,Rohnert Park,California,94928,1,1,12,11,8,FedEx,8,2-Day,Y,N,N,26.01,On Time,Shorts
+US,Newark,NJ,07101,WOODSTOCK,GA,30188-2812,1,1,13,10,5,FedEx,5,Overnight,Y,N,N,30.93,On Time,Skirt
+US,Newark,NJ,07101,Jacksonville,NORTH CAROLINA,28546,2,2,13,12,3,FedEx,4,Ground,Y,N,N,15.25,On Time,Coat
+US,Newark,NJ,07101,Freeport,NY,11520,4,4,13,10,4,UPS,2,2-Day,N,N,N,15.36,Late,Sneakers
+US,Newark,NJ,07101,Chicago,Illinois,60618,2,2,17,12,7,UPS,5,Ground,Y,N,N,15.75,On Time,Scarf
+US,Newark,NJ,07101,Nashville,Tennessee,37205,1,1,13,10,3,UPS,5,2-Day,N,N,N,17.04,On Time,T-Shirt
+US,Newark,NJ,07101,Ballwin,MO,63021-4445,1,1,17,15,3,FedEx,5,2-Day,N,N,N,17.52,On Time,Scarf
+US,Newark,NJ,07101,Muscle Shoals,Alabama,35661,2,2,13,10,4,FedEx,5,Ground,Y,N,N,16.05,On Time,Scarf
+US,Newark,NJ,07101,Germantown,TENNESSEE,38139,3,3,10,10,4,DHL,5,2-Day,Y,N,N,24.41,On Time,Jeans
+US,Newark,NJ,07101,Chelan,WASHINGTON,98816,2,2,12,8,2,UPS,8,Overnight,N,N,N,32.4,On Time,Scarf
+US,Newark,NJ,07101,Avon Park,FLORIDA,33825,7,7,8,6,3,UPS,6,2-Day,Y,N,N,27.29,On Time,Skirt
+US,Newark,NJ,07101,Beaufort,North Carolina,28516,2,2,15,14,11,FedEx,4,Ground,Y,N,N,15.25,On Time,Jacket
+US,Newark,NJ,07101,RIENZI,MS,38865-9600,1,1,16,13,5,USPS,6,Overnight,Y,N,N,28.77,On Time,Sweater
+US,Newark,NJ,07101,Des Allemands,LOUISIANA,70030,3,3,18,13,7,FedEx,6,Overnight,N,N,N,30.36,On Time,Jacket
+US,Newark,NJ,07101,Draper,Utah,84020,2,2,15,14,4,UPS,8,2-Day,Y,N,N,26.25,On Time,Coat
+US,Newark,NJ,07101,New York,NEW YORK,10029,1,1,13,11,3,DHL,2,Ground,N,N,N,9.05,On Time,Shorts
+US,Newark,NJ,07101,Pittsburgh,PENNSYLVANIA,15223,2,2,10,8,2,UPS,2,Ground,Y,N,N,13.35,On Time,Sandals
+US,Newark,NJ,07101,Nettleton,MS,38858,3,3,8,6,2,UPS,6,2-Day,Y,N,N,24.41,On Time,Hoodie
+US,Newark,NJ,07101,Fitchburg,Massachusetts,01420,3,3,13,10,3,UPS,3,Ground,Y,N,N,14.6,On Time,Shorts
+US,Newark,NJ,07101,Elida,OH,45807,4,4,12,9,3,USPS,4,2-Day,Y,N,N,20.33,Lost,Hoodie
+US,Newark,NJ,07101,North Andover,MASSACHUSETTS,01845,1,1,15,13,4,USPS,3,2-Day,Y,N,N,16.89,On Time,Jacket
+US,Newark,NJ,07101,ROCHESTER,NH,03839-5618,1,1,15,13,5,FedEx,3,Ground,Y,N,N,14.0,On Time,Skirt
+US,Newark,NJ,07101,Duluth,GA,30096-4452,1,1,14,10,5,FedEx,5,Overnight,Y,N,N,30.93,On Time,Skirt
+US,Newark,NJ,07101,Broomfield,CO,80023,1,1,13,10,6,FedEx,7,2-Day,Y,N,N,24.73,On Time,Jeans
+US,Newark,NJ,07101,ALPHARETTA,GA,30022-3328,1,1,11,11,2,FedEx,5,2-Day,N,N,N,17.52,On Time,Scarf
+US,Newark,NJ,07101,Manhattan,KANSAS,66502,3,3,15,13,5,FedEx,6,2-Day,Y,N,N,24.89,Damaged,Skirt
+US,Newark,NJ,07101,Lees Summit,Missouri,64082,2,2,15,12,6,DHL,5,Ground,Y,N,N,16.55,On Time,Leggings
+US,Newark,NJ,07101,Highland,INDIANA,46322,2,2,10,10,6,USPS,4,2-Day,Y,N,N,18.89,On Time,Coat
+US,Newark,NJ,07101,Beverly,MA,01915-2352,3,3,8,7,3,FedEx,3,Overnight,Y,N,N,29.25,On Time,Hoodie
+US,Newark,NJ,07101,Salina,KANSAS,67401,2,2,14,6,2,UPS,6,2-Day,N,N,N,19.04,On Time,Blouse
+US,Newark,NJ,07101,UNIVERSITY PLACE,WA,98466-4343,1,1,12,8,6,UPS,8,Overnight,N,N,N,31.32,On Time,Shorts
+US,Newark,NJ,07101,SCITUATE,MA,02066-1834,1,1,13,11,3,DHL,3,Ground,N,N,N,9.85,On Time,Jacket
+US,Newark,NJ,07101,Beaver City,NEBRASKA,68926,2,2,14,10,6,UPS,6,2-Day,N,N,N,19.04,On Time,Dress
+US,Newark,NJ,07101,Randolph,NEW JERSEY,07869,4,4,16,14,4,FedEx,2,Ground,N,N,N,9.9,On Time,Jacket
+US,Newark,NJ,07101,Chino,CA,91710,1,1,16,14,2,FedEx,8,2-Day,Y,N,N,26.01,Late,Scarf
+US,Newark,NJ,07101,Atlanta,Georgia,30317-2521,1,1,19,6,3,UPS,5,Ground,Y,N,N,15.3,On Time,Shorts
+US,Newark,NJ,07101,Los Angeles,CALIFORNIA,90049,5,5,14,12,4,FedEx,8,Overnight,Y,N,N,41.01,Late,Blouse
+US,Newark,NJ,07101,Denver,CO,80210,1,1,12,9,6,UPS,7,Overnight,Y,N,N,34.05,On Time,Dress
+US,Newark,NJ,07101,Toledo,Ohio,43605,1,1,14,13,3,USPS,4,Ground,Y,N,N,13.1,On Time,Sneakers
+US,Newark,NJ,07101,PASADENA,CA,91104-4822,1,1,14,12,5,UPS,8,Overnight,Y,N,N,35.97,On Time,Hoodie
+US,Newark,NJ,07101,SPARTANBURG,SOUTH CAROLINA,29307,3,3,12,9,6,FedEx,5,Ground,Y,N,N,16.5,On Time,Leggings
+US,Newark,NJ,07101,Muskego,Wisconsin,53150,5,5,14,13,4,DHL,5,2-Day,Y,N,N,25.85,On Time,Skirt
+US,Newark,NJ,07101,Manchester,CONNECTICUT,06042,1,1,13,11,3,UPS,2,Ground,N,N,N,8.25,On Time,Sweater
+US,Newark,NJ,07101,Silverhill,AL,36576,1,1,8,7,2,FedEx,5,Ground,Y,N,N,15.6,On Time,Boots
+US,Newark,NJ,07101,Bakersfield,CALIFORNIA,93307,2,2,12,8,3,FedEx,8,Ground,Y,N,N,18.45,Late,Jacket
+US,Newark,NJ,07101,DENVER,CO,80203-1465,1,1,8,7,4,FedEx,7,Overnight,N,N,N,30.12,On Time,Leggings
+US,Newark,NJ,07101,AZLE,TX,76020,1,1,11,10,5,UPS,7,Ground,Y,N,N,16.9,On Time,Scarf
+US,Newark,NJ,07101,Frisco,TEXAS,75036,3,3,14,14,3,USPS,7,Ground,N,N,N,11.75,On Time,Sweater
+US,Newark,NJ,07101,Las Vegas,NV,89179,1,1,14,12,3,UPS,8,Overnight,Y,N,N,35.97,On Time,Skirt
+US,Newark,NJ,07101,Staten Island,NEW YORK,10306,2,2,14,13,3,FedEx,2,Ground,Y,N,N,13.65,On Time,Dress
+US,Newark,NJ,07101,Indianapolis,INDIANA,46224,2,2,5,3,2,UPS,4,Overnight,N,N,N,24.72,On Time,Sandals
+US,Newark,NJ,07101,Fulton,MISSOURI,65251,2,2,10,5,2,DHL,5,2-Day,N,N,N,19.04,On Time,Dress
+US,Newark,NJ,07101,Nazareth,PA,18064,1,1,10,8,5,UPS,2,Ground,Y,N,N,12.9,On Time,Boots
+US,Newark,NJ,07101,Glen Mills,PENNSYLVANIA,19342,2,2,16,13,7,DHL,2,Ground,Y,N,N,14.15,On Time,Skirt
+US,Newark,NJ,07101,Grain Valley,MISSOURI,64029-6500,2,2,13,10,3,USPS,5,Overnight,Y,N,N,27.93,On Time,Coat
+US,Newark,NJ,07101,Bloomfield Hills,MICHIGAN,48304,2,2,13,12,5,FedEx,4,Ground,Y,N,N,15.25,Late,Shorts
+US,Newark,NJ,07101,Saint Cloud,MN,56304,1,1,17,15,3,USPS,6,2-Day,Y,N,N,20.73,On Time,Sweater
+US,Newark,NJ,07101,Miami,FL,33143,1,1,13,10,4,UPS,6,2-Day,Y,N,N,22.97,On Time,T-Shirt
+US,Newark,NJ,07101,Harlan,IA,51537,2,2,10,10,3,UPS,5,2-Day,N,N,N,17.76,On Time,T-Shirt
+US,Newark,NJ,07101,Wilmington,California,90744,1,1,16,13,6,FedEx,8,2-Day,N,N,N,21.36,On Time,Leggings
+US,Newark,NJ,07101,Los Angeles,California,90044,2,2,7,6,2,UPS,8,2-Day,N,N,N,21.6,On Time,Scarf
+US,Newark,NJ,07101,GARDEN CITY,ID,83714-4785,1,1,10,10,8,FedEx,8,2-Day,N,N,N,21.36,On Time,Boots
+US,Newark,NJ,07101,Winchester,CALIFORNIA,92596,2,2,15,14,3,UPS,8,Overnight,N,N,N,32.4,On Time,Sandals
+US,Newark,NJ,07101,Cheswick,Pennsylvania,15024,3,3,15,15,3,UPS,2,Ground,Y,N,N,13.8,On Time,Blouse
+US,Newark,NJ,07101,Niles,IL,60714,2,2,16,14,7,DHL,5,Ground,Y,N,N,16.55,On Time,Leggings
+US,Newark,NJ,07101,Rathdrum,ID,83858,1,1,11,8,6,USPS,8,2-Day,Y,N,N,23.29,On Time,Jacket
+US,Newark,NJ,07101,REDDING,CA,96002,2,2,16,13,7,FedEx,8,2-Day,Y,N,N,26.73,On Time,Boots
+US,Newark,NJ,07101,Elyria,OH,44035,1,1,14,14,2,UPS,4,2-Day,N,N,N,15.76,On Time,T-Shirt
+US,Newark,NJ,07101,Dickson City,Pennsylvania,18519-1477,1,1,12,11,7,FedEx,2,Ground,Y,N,N,13.2,On Time,Skirt
+US,Newark,NJ,07101,LONGVIEW,TX,75603-9474,2,2,14,12,3,DHL,7,2-Day,Y,N,N,26.25,On Time,Hoodie
+US,Newark,NJ,07101,Birmingham,ALABAMA,35244,2,2,15,12,4,USPS,5,Ground,N,N,N,9.7,On Time,Sweater
+US,Newark,NJ,07101,San Diego,CALIFORNIA,92117,4,4,16,14,3,FedEx,8,2-Day,Y,N,N,28.17,On Time,Boots
+US,Newark,NJ,07101,Summerville,SOUTH CAROLINA,29485,2,2,15,14,3,UPS,5,Ground,N,N,N,11.1,On Time,Sweater
+US,Newark,NJ,07101,Greenwood,MISSOURI,64034,2,2,13,12,5,UPS,5,2-Day,Y,N,N,22.41,On Time,Skirt
+US,Newark,NJ,07101,Lynnwood,WASHINGTON,98037,5,5,12,9,6,FedEx,8,2-Day,N,N,N,24.24,Late,Skirt
+US,Newark,NJ,07101,El Paso,TEXAS,79912,1,1,8,5,5,USPS,7,2-Day,N,N,N,17.36,On Time,T-Shirt
+US,Newark,NJ,07101,Hillsboro,OR,97124,4,4,11,10,2,UPS,8,Ground,N,N,N,14.4,On Time,Shorts
+US,Newark,NJ,07101,PIEDMONT,SOUTH CAROLINA,29673-7905,1,1,16,15,5,USPS,5,Ground,N,N,N,9.25,On Time,T-Shirt
+US,Newark,NJ,07101,Lynden,WA,98264,1,1,15,12,6,UPS,8,Ground,Y,N,N,17.7,On Time,Skirt
+US,Newark,NJ,07101,Henrico,VA,23238-3609,1,1,18,15,7,FedEx,3,Ground,Y,N,N,14.0,On Time,Sneakers
+US,Newark,NJ,07101,Charlotte,NC,28216,1,1,13,10,4,FedEx,4,2-Day,Y,N,N,20.89,On Time,Scarf
+US,Newark,NJ,07101,Canton,Georgia,30115,2,2,13,11,3,FedEx,5,Ground,N,N,N,11.4,On Time,T-Shirt
+US,Newark,NJ,07101,jacksonville,Arkansas,72076,4,4,15,11,3,DHL,6,Ground,N,N,N,13.6,On Time,Leggings
+US,Newark,NJ,07101,Lakewood,OH,44107-2624,1,1,14,11,5,USPS,4,2-Day,Y,N,N,18.17,On Time,Boots
+US,Newark,NJ,07101,Plain City,OHIO,43064,2,2,17,14,3,USPS,4,2-Day,Y,N,N,18.89,On Time,Leggings
+US,Newark,NJ,07101,COLUMBUS,New Jersey,08022,4,4,12,8,5,FedEx,2,Overnight,N,N,N,23.76,On Time,Coat
+US,Newark,NJ,07101,Williamstown,NEW JERSEY,08094,5,5,13,11,5,FedEx,2,Ground,Y,N,N,15.0,On Time,Jeans
+US,Newark,NJ,07101,Doral,Florida,33178,4,4,9,9,5,USPS,6,2-Day,Y,N,N,22.89,On Time,Jeans
+US,Newark,NJ,07101,Springfield,MO,65804-2650,1,1,16,13,7,DHL,5,Ground,Y,N,N,16.1,Damaged,Dress
+US,Newark,NJ,07101,Huntington Station,New York,11746,3,3,13,12,3,FedEx,2,Ground,N,N,N,9.45,Damaged,Dress
+US,Newark,NJ,07101,BEARDSTOWN,IL,62618-7810,2,2,14,10,3,UPS,5,Ground,Y,N,N,15.75,On Time,Skirt
+US,Newark,NJ,07101,Mchenry,ILLINOIS,60051,4,4,13,12,5,FedEx,5,Ground,Y,N,N,16.95,On Time,Leggings
+US,Newark,NJ,07101,Richmond,Virginia,23225,2,2,14,11,6,USPS,3,Ground,Y,N,N,12.75,On Time,Sneakers
+US,Newark,NJ,07101,Chesterfield,NEW JERSEY,08515,3,3,10,8,1,USPS,2,Ground,Y,N,N,12.4,On Time,Hoodie
+US,Newark,NJ,07101,FORT WORTH,TX,76244-2675,3,3,11,9,3,FedEx,7,2-Day,Y,N,N,26.17,On Time,Hoodie
+US,Newark,NJ,07101,Lakeland,FLORIDA,33809,1,1,19,14,5,UPS,6,Overnight,N,N,N,27.48,On Time,Blouse
+US,Newark,NJ,07101,NEW ALBANY,Indiana,47150,3,3,15,11,7,UPS,4,2-Day,Y,N,N,21.85,On Time,Shorts
+US,Newark,NJ,07101,COLORADO SPRINGS,CO,80906-4328,1,1,13,13,3,FedEx,7,2-Day,Y,N,N,24.73,On Time,Scarf
+US,Newark,NJ,07101,Justice,Illinois,60458-2246,3,3,21,13,7,USPS,5,Ground,Y,N,N,14.8,On Time,Jacket
+US,Newark,NJ,07101,Bronx,NY,10475,1,1,12,11,5,UPS,2,2-Day,Y,N,N,17.85,On Time,Boots
+US,Newark,NJ,07101,Westminster,Colorado,80031,2,2,14,9,5,FedEx,7,2-Day,N,N,N,20.8,On Time,Leggings
+US,Newark,NJ,07101,Dallas,TEXAS,75230,2,2,16,13,12,UPS,7,Overnight,N,N,N,30.48,On Time,Sweater
+US,Newark,NJ,07101,Gulf Breeze,FLORIDA,32563,1,1,12,8,2,USPS,6,2-Day,Y,N,N,20.73,Late,Leggings
+US,Newark,NJ,07101,Mount Pleasant,Wisconsin,53406,2,2,12,10,5,FedEx,5,2-Day,Y,N,N,22.89,On Time,Sandals
+US,Newark,NJ,07101,Townsend,Wisconsin,54175,5,5,14,9,5,FedEx,5,Ground,Y,N,N,17.4,On Time,Jeans
+US,Newark,NJ,07101,Chesnee,SOUTH CAROLINA,29323,2,2,16,14,6,DHL,5,Ground,Y,N,N,16.55,On Time,Hoodie
+US,Newark,NJ,07101,Opa-Locka,FLORIDA,33054-2354,2,2,15,5,3,UPS,6,Ground,Y,N,N,16.55,On Time,Shorts
+US,Newark,NJ,07101,PHILADELPHIA,Pennsylvania,19146,2,2,15,13,3,UPS,2,Overnight,N,N,N,20.88,On Time,T-Shirt
+US,Newark,NJ,07101,Flintridge,CALIFORNIA,91011,2,2,6,4,2,UPS,8,2-Day,Y,N,N,26.25,On Time,T-Shirt
+US,Newark,NJ,07101,Alexandria,LA,71303,1,1,14,12,3,FedEx,6,Overnight,N,N,N,28.2,On Time,Dress
+US,Newark,NJ,07101,Oak Hills,CALIFORNIA,92344,2,2,12,11,3,FedEx,8,2-Day,Y,N,N,26.73,On Time,Skirt
+US,Newark,NJ,07101,Huntington Beach,CA,92647,6,6,15,14,2,FedEx,8,Ground,Y,N,N,20.25,On Time,Blouse
+US,Newark,NJ,07101,Ridge,NY,11961-2984,3,3,17,14,6,UPS,2,Ground,Y,N,N,13.8,On Time,Sandals
+US,Newark,NJ,07101,Oklahoma City,OKLAHOMA,73170,3,3,12,11,3,FedEx,6,Ground,N,N,N,12.65,Late,Shorts
+US,Newark,NJ,07101,Miami,FL,33184-2314,2,2,14,14,5,FedEx,6,Ground,Y,N,N,16.85,On Time,Leggings
+US,Newark,NJ,07101,Kenosha,Wisconsin,53144,1,1,3,2,1,FedEx,5,2-Day,Y,N,N,22.17,Late,Jeans
+US,Newark,NJ,07101,Jefferson,Massachusetts,01522,2,2,16,7,2,UPS,3,Ground,Y,N,N,14.15,On Time,Skirt
+US,Newark,NJ,07101,Ardmore,OK,73401,1,1,13,9,2,FedEx,6,Overnight,N,N,N,28.2,On Time,T-Shirt
+US,Newark,NJ,07101,Plantation,Florida,33324,4,4,9,7,2,DHL,6,Ground,Y,N,N,18.25,On Time,Jacket
+US,Newark,NJ,07101,Bonney Lake,WASHINGTON,98391,1,1,12,10,2,USPS,8,2-Day,N,N,N,18.64,On Time,Coat
+US,Newark,NJ,07101,Littleton,CO,80125-8464,1,1,10,9,5,FedEx,7,2-Day,Y,N,N,24.73,On Time,Coat
+US,Newark,NJ,07101,Perry,GA,31069,2,2,13,10,5,FedEx,5,2-Day,Y,N,N,22.89,On Time,Skirt
+US,Newark,NJ,07101,Marianna,Arkansas,72360,1,1,12,10,6,UPS,6,Ground,Y,N,N,16.1,On Time,T-Shirt
+US,Newark,NJ,07101,MINNESOTT BEACH,NC,28510-9717,1,1,15,14,3,FedEx,4,2-Day,Y,N,N,20.89,On Time,Jeans
+US,Newark,NJ,07101,Moorestown,New Jersey,08057,2,2,13,11,3,FedEx,2,Ground,Y,N,N,13.65,On Time,Coat
+US,Newark,NJ,07101,ATLANTA,GA,30316-1400,1,1,7,6,2,DHL,5,Ground,Y,N,N,16.1,On Time,Coat
+US,Newark,NJ,07101,Oceanside,CALIFORNIA,92058,1,1,13,8,7,UPS,8,Overnight,Y,N,N,35.97,Late,Shorts
+US,Newark,NJ,07101,Detroit,MICHIGAN,48221,1,1,16,13,4,UPS,4,Overnight,Y,N,N,28.29,On Time,T-Shirt
+US,Newark,NJ,07101,Palm City,Florida,34990,2,2,11,11,2,USPS,6,2-Day,Y,N,N,21.45,On Time,Coat
+US,Newark,NJ,07101,Springfield,Ohio,45503,3,3,16,14,7,USPS,4,2-Day,Y,N,N,19.61,On Time,Sneakers
+US,Newark,NJ,07101,Locust Grove,OK,74352,2,2,17,16,7,FedEx,6,2-Day,N,N,N,19.52,On Time,Scarf
+US,Newark,NJ,07101,Rock Springs,WY,82901-7517,1,1,15,14,4,FedEx,8,2-Day,Y,N,N,26.01,On Time,Shorts
+US,Newark,NJ,07101,Neenah,WISCONSIN,54956,2,2,16,13,3,UPS,5,Overnight,Y,N,N,31.29,On Time,Sandals
+US,Newark,NJ,07101,Browns Mills,NEW JERSEY,08015,4,4,12,11,2,UPS,2,Ground,N,N,N,9.6,On Time,Boots
+US,Newark,NJ,07101,Cedar Springs,Michigan,49319,2,2,15,13,6,UPS,4,Ground,Y,N,N,14.95,On Time,Hoodie
+US,Newark,NJ,07101,Staunton,Virginia,24401,2,2,16,14,3,USPS,3,2-Day,N,N,N,12.96,On Time,Jeans
+US,Newark,NJ,07101,Deltona,FLORIDA,32738-2498,2,2,12,11,3,UPS,6,Ground,N,N,N,11.9,On Time,Dress
+US,Newark,NJ,07101,Converse,TEXAS,78109,7,7,19,16,6,DHL,7,Ground,Y,N,N,20.4,On Time,Jacket
+US,Newark,NJ,07101,Los Angeles,CALIFORNIA,90038,3,3,12,10,3,FedEx,8,Ground,N,N,N,14.25,Damaged,Leggings
+US,Newark,NJ,07101,Moorhead,Minnesota,56560,3,3,13,11,3,UPS,6,Ground,Y,N,N,17.0,On Time,Hoodie
+US,Newark,NJ,07101,Biloxi,Mississippi,39532,2,2,13,11,3,FedEx,6,2-Day,Y,N,N,24.17,On Time,Coat
+US,Newark,NJ,07101,SYRACUSE,NY,13208,1,1,7,6,5,USPS,2,Ground,N,N,N,6.85,Lost,Sneakers
+US,Newark,NJ,07101,Dorchester,SOUTH CAROLINA,29437,1,1,9,5,5,FedEx,5,Ground,N,N,N,10.95,On Time,Sandals
+US,Newark,NJ,07101,Mc Gregor,TEXAS,76657,4,4,14,11,5,FedEx,7,Ground,Y,N,N,18.55,On Time,Dress
+US,Newark,NJ,07101,Louisville,KENTUCKY,40299,2,2,12,11,3,UPS,4,2-Day,Y,N,N,21.13,On Time,Scarf
+US,Newark,NJ,07101,Shickshinny,PENNSYLVANIA,18655,3,3,16,13,4,UPS,2,2-Day,N,N,N,14.64,Late,Boots
+US,Newark,NJ,07101,New York,NY,10036,6,6,13,11,4,FedEx,2,Ground,Y,N,N,15.45,On Time,Skirt
+US,Newark,NJ,07101,Brockton,MASSACHUSETTS,02301,3,3,10,9,5,FedEx,3,2-Day,Y,N,N,21.05,On Time,Scarf
+US,Newark,NJ,07101,Brentwood,Tennessee,37027,3,3,11,8,4,DHL,5,Overnight,Y,N,N,34.29,On Time,T-Shirt
+US,Newark,NJ,07101,Nekoosa,WI,54457,3,3,15,14,7,UPS,5,2-Day,Y,N,N,23.13,On Time,Blouse
+US,Newark,NJ,07101,Covington,LA,70433,1,1,9,9,3,USPS,6,2-Day,N,N,N,16.08,On Time,Leggings
+US,Newark,NJ,07101,Lake Forest,ILLINOIS,60045,2,2,18,14,8,UPS,5,2-Day,Y,N,N,22.41,On Time,Hoodie
+US,Newark,NJ,07101,Attleboro,MASSACHUSETTS,02703,1,1,14,13,2,FedEx,3,Overnight,N,N,N,22.44,On Time,Sandals
+US,Newark,NJ,07101,HELENA,MT,59601-3230,1,1,14,13,3,DHL,8,2-Day,N,N,N,22.16,On Time,Scarf
+US,Newark,NJ,07101,Bowdoin,Maine,04287-7255,1,1,8,8,6,USPS,4,2-Day,Y,N,N,18.17,On Time,Hoodie
+US,Newark,NJ,07101,Berlin,MD,21811,1,1,8,6,5,DHL,2,Ground,N,N,N,9.05,On Time,Sandals
+US,Newark,NJ,07101,Schenectady,NY,12303,1,1,17,13,7,DHL,2,2-Day,Y,N,N,19.13,On Time,T-Shirt
+US,Newark,NJ,07101,Madera,CALIFORNIA,93638,5,5,12,12,2,USPS,8,Overnight,Y,N,N,36.93,On Time,Sneakers
+US,Newark,NJ,07101,Hanson,MASSACHUSETTS,02341,2,2,8,7,2,FedEx,3,Ground,Y,N,N,14.45,On Time,Scarf
+US,Newark,NJ,07101,Harvey,LOUISIANA,70058,1,1,11,8,6,UPS,6,Ground,Y,N,N,16.1,On Time,Skirt
+US,Newark,NJ,07101,Proctorville,Ohio,45669,1,1,11,9,5,FedEx,4,Ground,Y,N,N,14.8,Damaged,Hoodie
+US,Newark,NJ,07101,Billings,MONTANA,59102,1,1,12,8,6,UPS,8,2-Day,Y,N,N,25.53,On Time,Scarf
+US,Newark,NJ,07101,Rancho Cucamonga,California,91739,3,3,7,6,2,FedEx,8,2-Day,Y,N,N,27.45,On Time,Blouse
+US,Newark,NJ,07101,INDIANA,PA,15701-3418,1,1,6,5,3,UPS,2,Ground,Y,N,N,12.9,On Time,Boots
+US,Newark,NJ,07101,Hialeah,FL,33015,1,1,8,5,3,DHL,6,Ground,Y,N,N,16.9,Late,Sweater
+US,Newark,NJ,07101,Hortonville,WISCONSIN,54944,2,2,11,10,2,FedEx,5,2-Day,Y,N,N,22.89,On Time,Jeans
+US,Newark,NJ,07101,ODESSA,TX,79762-8400,1,1,14,11,4,USPS,7,2-Day,Y,N,N,22.01,On Time,Sweater
+US,Newark,NJ,07101,Maquoketa,IA,52060,1,1,10,8,4,UPS,5,Overnight,N,N,N,25.56,On Time,Sandals
+US,Newark,NJ,07101,Cumming,Georgia,30041,1,1,14,11,4,UPS,5,2-Day,Y,N,N,21.69,On Time,Boots
+US,Newark,NJ,07101,Sarasota,FLORIDA,34231,3,3,21,17,6,DHL,6,2-Day,N,N,N,21.04,On Time,Jeans
+US,Newark,NJ,07101,Chicago,Illinois,60657,2,2,17,15,4,DHL,5,Ground,N,N,N,11.9,On Time,Dress
+US,Newark,NJ,07101,Fountain,CO,80817,1,1,12,9,7,UPS,7,Ground,N,N,N,12.25,Lost,Boots
+US,Newark,NJ,07101,Knoxville,TENNESSEE,37920,3,3,18,14,5,USPS,5,Ground,Y,N,N,14.8,On Time,Sweater
+US,Newark,NJ,07101,Dell city,TX,79837,1,1,10,9,6,FedEx,7,2-Day,Y,N,N,24.73,On Time,Sandals
+US,Newark,NJ,07101,Jamaica,IA,50128,2,2,19,5,4,FedEx,5,Ground,Y,N,N,16.05,On Time,Sneakers
+US,Newark,NJ,07101,Slocomb,ALABAMA,36375,2,2,7,6,4,DHL,5,Ground,Y,N,N,16.55,On Time,Jeans
+US,Newark,NJ,07101,Abbeville,AL,36310,2,2,12,10,2,UPS,5,Overnight,N,N,N,26.64,On Time,T-Shirt
+US,Newark,NJ,07101,Escondido,CALIFORNIA,92027,3,3,16,14,3,UPS,8,Overnight,N,N,N,33.48,On Time,Sneakers
+US,Newark,NJ,07101,Clarkston,MICHIGAN,48346,1,1,13,10,3,USPS,4,2-Day,Y,N,N,18.17,Lost,Hoodie
+US,Newark,NJ,07101,MCCORDSVILLE,IN,46055-9775,1,1,21,6,3,FedEx,4,Overnight,N,N,N,24.36,On Time,Sneakers
+US,Newark,NJ,07101,Sterling,Virginia,20166,2,2,14,12,6,UPS,3,Overnight,Y,N,N,27.45,On Time,Jeans
+US,Newark,NJ,07101,Katy,TEXAS,77449,2,2,11,8,4,UPS,7,2-Day,N,N,N,20.32,On Time,Dress
+US,Newark,NJ,07101,Old bridge,New Jersey,08857-2921,4,4,18,10,6,USPS,2,Ground,N,N,N,8.2,On Time,Blouse
+US,Newark,NJ,07101,E Dublin,GEORGIA,31027,2,2,14,11,4,FedEx,5,Ground,Y,N,N,16.05,On Time,Shorts
+US,Newark,NJ,07101,Carlsbad,California,92008,2,2,15,14,3,DHL,8,2-Day,N,N,N,22.88,On Time,Blouse
+US,Newark,NJ,07101,Elkhart,INDIANA,46517,2,2,13,11,3,FedEx,4,2-Day,Y,N,N,21.61,On Time,T-Shirt
+US,Newark,NJ,07101,San Bruno,CALIFORNIA,94066,2,2,15,12,8,FedEx,8,2-Day,Y,N,N,26.73,On Time,Hoodie
+US,Newark,NJ,07101,Waukomis,Oklahoma,73773-1062,6,6,16,12,2,UPS,6,Overnight,Y,N,N,37.53,On Time,Jeans
+US,Newark,NJ,07101,Des Plaines,Illinois,60016,2,2,24,16,14,UPS,5,Ground,N,N,N,11.1,On Time,Shorts
+US,Newark,NJ,07101,NORWOOD,Massachusetts,02062,3,3,11,11,3,FedEx,3,Ground,Y,N,N,14.9,On Time,Sneakers
+US,Newark,NJ,07101,Grand Bay,ALABAMA,36541,2,2,14,9,6,FedEx,5,2-Day,Y,N,N,22.89,On Time,Hoodie
+US,Newark,NJ,07101,PLAINFIELD,NJ,07063-1536,1,1,15,12,3,USPS,2,Ground,Y,N,N,11.5,Lost,Sneakers
+US,Newark,NJ,07101,Pine Brook,New Jersey,07058,2,2,16,13,3,FedEx,2,Ground,Y,N,N,13.65,On Time,Hoodie
+US,Newark,NJ,07101,Holly Springs,NORTH CAROLINA,27540,2,2,16,14,3,UPS,4,Ground,Y,N,N,14.95,On Time,Jeans
+US,Newark,NJ,07101,Las Vegas,NV,89183,1,1,13,12,2,UPS,8,2-Day,Y,N,N,25.53,On Time,Coat
+US,Newark,NJ,07101,Rego Park,NEW YORK,11374,2,2,12,12,6,UPS,2,2-Day,Y,N,N,18.57,On Time,Coat
+US,Newark,NJ,07101,Porter,TEXAS,77365,1,1,15,4,2,UPS,7,Overnight,Y,N,N,34.05,On Time,Scarf
+US,Newark,NJ,07101,Saucier,MISSISSIPPI,39574,3,3,17,14,3,UPS,6,2-Day,Y,N,N,24.41,On Time,Shorts
+US,Newark,NJ,07101,Bakersfield,CALIFORNIA,93314,3,3,6,6,3,DHL,8,2-Day,Y,N,N,28.25,On Time,Dress
+US,Newark,NJ,07101,Las Cruces,NEW MEXICO,88012,1,1,11,10,6,FedEx,8,2-Day,Y,N,N,26.01,Late,Hoodie
+US,Newark,NJ,07101,BROOKLYN,NY,11235-6623,1,1,14,14,6,USPS,2,Overnight,N,N,N,16.44,Late,Dress
+US,Newark,NJ,07101,NORTH SAINT PAUL,MN,55109,2,2,13,12,2,FedEx,6,Overnight,Y,N,N,33.93,On Time,Sneakers
+US,Newark,NJ,07101,SPRINGFIELD,OH,45504,2,2,16,15,2,UPS,4,2-Day,N,N,N,16.48,On Time,Skirt
+US,Newark,NJ,07101,Flower Mound,TEXAS,75028,2,2,16,12,3,UPS,7,2-Day,N,N,N,20.32,On Time,T-Shirt
+US,Newark,NJ,07101,Davie,Florida,33325-6515,3,3,11,11,6,FedEx,6,2-Day,Y,N,N,24.89,On Time,Blouse
+US,Newark,NJ,07101,Ovid,MICHIGAN,48866,2,2,10,5,3,FedEx,4,Ground,Y,N,N,15.25,On Time,Blouse
+US,Newark,NJ,07101,Latrobe,PENNSYLVANIA,15650,2,2,15,13,5,USPS,2,Overnight,Y,N,N,22.17,On Time,Skirt
+US,Newark,NJ,07101,Canfield,OHIO,44406,3,3,14,13,3,FedEx,4,Ground,Y,N,N,15.7,On Time,Jeans
+US,Newark,NJ,07101,OLNEY,IL,62450-2476,2,2,11,10,6,UPS,5,2-Day,N,N,N,17.76,On Time,Jacket
+US,Newark,NJ,07101,paris,IL,61944,1,1,12,11,2,DHL,5,Overnight,N,N,N,27.48,On Time,Jacket
+US,Newark,NJ,07101,wartburg,TN,37887,1,1,14,10,5,DHL,5,2-Day,Y,N,N,22.97,Lost,Sweater
+US,Newark,NJ,07101,Henderson,TENNESSEE,38340,2,2,15,13,5,FedEx,5,2-Day,N,N,N,18.24,On Time,Shorts
+US,Newark,NJ,07101,Oakland,CALIFORNIA,94602,3,3,14,14,4,FedEx,8,2-Day,N,N,N,22.8,On Time,Dress
+US,Newark,NJ,07101,Santa Fe,NM,87507-2740,1,1,19,5,3,FedEx,8,Ground,Y,N,N,18.0,On Time,Jeans
+US,Newark,NJ,07101,Richmond,Kentucky,40475,2,2,11,9,4,DHL,4,Ground,Y,N,N,15.75,On Time,Sneakers
+US,Newark,NJ,07101,Hillsboro,TENNESSEE,37342,4,4,12,11,3,USPS,5,2-Day,Y,N,N,21.61,On Time,Scarf
+US,Newark,NJ,07101,Silver Lake,Wisconsin,53170-1616,1,1,15,13,3,USPS,5,2-Day,Y,N,N,19.45,On Time,Sneakers
+US,Newark,NJ,07101,PACE,FL,32571-9862,2,2,15,13,3,UPS,6,2-Day,Y,N,N,23.69,On Time,Sweater
+US,Newark,NJ,07101,Knoxville,TENNESSEE,37934,2,2,18,14,4,FedEx,5,Ground,N,N,N,11.4,On Time,Leggings
+US,Newark,NJ,07101,Los Alamitos,CA,90720,1,1,11,8,6,USPS,8,2-Day,Y,N,N,23.29,On Time,Sneakers
+US,Newark,NJ,07101,BROOKLYN,NEW YORK,11203,2,2,16,14,2,USPS,2,2-Day,N,N,N,11.68,On Time,Hoodie
+US,Newark,NJ,07101,Greeley,CO,80634,1,1,17,14,3,UPS,7,2-Day,Y,N,N,24.25,On Time,Leggings
+US,Newark,NJ,07101,Rowlett,TEXAS,75088,1,1,14,13,5,DHL,7,2-Day,Y,N,N,25.53,Lost,Leggings
+US,Newark,NJ,07101,Mesa,AZ,85212-2040,1,1,7,5,5,UPS,8,Ground,Y,N,N,17.7,On Time,Scarf
+US,Newark,NJ,07101,Oswego,New York,13126,2,2,8,5,2,FedEx,2,Overnight,Y,N,N,26.25,On Time,Dress
+US,Newark,NJ,07101,Brooklyn,New York,11209,3,3,16,14,3,USPS,2,Ground,Y,N,N,12.4,On Time,Sneakers
+US,Newark,NJ,07101,Brentwood,CALIFORNIA,94513,3,3,15,14,8,FedEx,8,Ground,Y,N,N,18.9,On Time,Scarf
+US,Newark,NJ,07101,Katy,TX,77493,1,1,10,8,3,UPS,7,Ground,Y,N,N,16.9,On Time,Jacket
+US,Newark,NJ,07101,Waldorf,MD,20601,2,2,15,14,3,DHL,2,Ground,Y,N,N,14.15,On Time,Sneakers
+US,Newark,NJ,07101,Moorpark,CA,93021-3024,1,1,19,13,6,FedEx,8,2-Day,Y,N,N,26.01,Late,Scarf
+US,Newark,NJ,07101,SEAFORD,DELAWARE,19973,3,3,12,9,8,FedEx,2,Ground,Y,N,N,14.1,On Time,Scarf
+US,Newark,NJ,07101,PENDLETON,OR,97801-6042,1,1,9,9,2,FedEx,8,Overnight,Y,N,N,36.69,On Time,Sneakers
+US,Newark,NJ,07101,Elizabeth,Pennsylvania,15037,1,1,15,11,3,UPS,2,2-Day,Y,N,N,17.85,On Time,Boots
+US,Newark,NJ,07101,Mechanicsburg,Pennsylvania,17055,1,1,14,11,7,FedEx,2,Ground,N,N,N,8.55,On Time,Skirt
+US,Newark,NJ,07101,Katy,TEXAS,77494,1,1,13,12,4,UPS,7,Ground,Y,N,N,16.9,On Time,Shorts
+US,Newark,NJ,07101,Grand Terrace,CA,92313-5774,1,1,11,10,3,USPS,8,Overnight,Y,N,N,32.61,Lost,Jacket
+US,Newark,NJ,07101,Mount Sterling,IL,62353-4420,2,2,14,6,8,FedEx,5,2-Day,Y,N,N,22.89,On Time,Hoodie
+US,Newark,NJ,07101,New York,New York,10016,2,2,13,11,4,UPS,2,2-Day,N,N,N,13.92,Damaged,Leggings
+US,Newark,NJ,07101,Mesa,ARIZONA,85206,1,1,12,11,5,FedEx,8,2-Day,Y,N,N,26.01,On Time,Hoodie
+US,Newark,NJ,07101,Tolleson,ARIZONA,85353,1,1,12,8,4,UPS,8,2-Day,N,N,N,20.88,On Time,Jeans
+US,Newark,NJ,07101,Ocean City,NEW JERSEY,08226,2,2,13,10,6,DHL,2,2-Day,N,N,N,15.2,On Time,Shorts
+US,Newark,NJ,07101,Lemoore,CALIFORNIA,93245,2,2,14,11,5,USPS,8,Overnight,N,N,N,29.04,On Time,Shorts
+US,Newark,NJ,07101,Glendale,NEW YORK,11385,1,1,18,6,3,FedEx,2,Ground,N,N,N,8.55,On Time,Shorts
+US,Newark,NJ,07101,Mount Airy,MARYLAND,21771,2,2,17,16,6,UPS,2,Ground,Y,N,N,13.35,On Time,Boots
+US,Newark,NJ,07101,WINCHESTER,KY,40391-2419,2,2,15,14,5,FedEx,4,Ground,Y,N,N,15.25,On Time,Shorts
+US,Newark,NJ,07101,Mulberry,Indiana,46058,3,3,12,11,5,FedEx,4,Overnight,Y,N,N,31.17,On Time,Scarf
+US,Newark,NJ,07101,N Franklin,CONNECTICUT,06254,1,1,14,11,5,USPS,2,Ground,Y,N,N,11.5,On Time,Blouse
+US,Newark,NJ,07101,LAKE GROVE,NY,11755-3204,1,1,16,13,4,UPS,2,2-Day,N,N,N,13.2,On Time,Boots
+US,Newark,NJ,07101,Carlsbad,CALIFORNIA,92008-3142,3,3,15,14,4,FedEx,8,Overnight,N,N,N,34.2,Late,Blouse
+US,Newark,NJ,07101,Jackson,Missouri,63755,4,4,17,14,4,USPS,5,Ground,Y,N,N,15.25,On Time,Sneakers
+US,Newark,NJ,07101,Tampa,FL,33647,4,4,12,8,3,UPS,6,Overnight,Y,N,N,35.37,On Time,Boots
+US,Newark,NJ,07101,Durand,WISCONSIN,54736,4,4,10,8,5,UPS,5,Ground,N,N,N,12.0,On Time,Leggings
+US,Newark,NJ,07101,Bloomsburg,PENNSYLVANIA,17815,3,3,16,14,4,FedEx,2,Overnight,Y,N,N,27.33,On Time,Sandals
+US,Newark,NJ,07101,Middleburg Heights,OH,44130-5341,2,2,16,14,3,FedEx,4,2-Day,Y,N,N,21.61,On Time,Blouse
+US,Newark,NJ,07101,WHITEHALL,OH,43213,1,1,10,8,6,USPS,4,2-Day,N,N,N,13.52,On Time,Skirt
+US,Newark,NJ,07101,Birmingham,Alabama,35244,7,7,12,10,3,DHL,5,Ground,N,N,N,14.15,On Time,Sweater
+US,Newark,NJ,07101,Pasadena,TEXAS,77502,2,2,13,5,2,UPS,7,2-Day,N,N,N,20.32,On Time,Jacket
+US,Newark,NJ,07101,Macclesfield,NORTH CAROLINA,27852,4,4,9,9,5,USPS,4,2-Day,N,N,N,15.68,On Time,Sweater
+US,Newark,NJ,07101,matteson,Illinois,60443,2,2,14,10,5,UPS,5,Overnight,N,N,N,26.64,On Time,Boots
+US,Newark,NJ,07101,ODESSA,FL,33556-2280,4,4,15,11,3,FedEx,6,2-Day,N,N,N,20.96,On Time,Sandals
+US,Newark,NJ,07101,Irondequoit,NY,14622,1,1,13,10,6,FedEx,2,Ground,Y,N,N,13.2,On Time,Jeans
+US,Newark,NJ,07101,Delmar,DELAWARE,19940,4,4,17,13,6,FedEx,2,Ground,Y,N,N,14.55,On Time,Scarf
+US,Newark,NJ,07101,WEST DES MOINES,IA,50265-5373,1,1,13,10,4,USPS,5,Ground,Y,N,N,13.9,On Time,Skirt
+US,Newark,NJ,07101,Alhambra,California,91803,2,2,10,10,2,USPS,8,2-Day,Y,N,N,24.01,On Time,Blouse
+US,Newark,NJ,07101,Corona,CA,92878-4433,1,1,16,12,3,USPS,8,2-Day,Y,N,N,23.29,Lost,Skirt
+US,Newark,NJ,07101,Boulder Junction,WI,54512,1,1,15,13,3,USPS,5,2-Day,Y,N,N,19.45,On Time,Coat
+US,Newark,NJ,07101,Snohomish,WA,98296,5,5,8,7,3,FedEx,8,2-Day,Y,N,N,28.89,Late,Boots
+US,Newark,NJ,07101,BAYTOWN,TX,77520-3624,1,1,14,13,3,FedEx,7,Ground,N,N,N,12.55,On Time,Shorts
+US,Newark,NJ,07101,Holliston,MASSACHUSETTS,01746,3,3,14,13,3,FedEx,3,2-Day,Y,N,N,21.05,On Time,Sandals
+US,Newark,NJ,07101,El Paso,TX,79903,1,1,11,11,6,USPS,7,2-Day,Y,N,N,22.01,On Time,Hoodie
+US,Newark,NJ,07101,Saint Paul,Minnesota,55113,3,3,16,15,3,USPS,6,Ground,Y,N,N,15.6,Lost,Coat
+US,Newark,NJ,07101,College Park,Maryland,20740,1,1,21,10,6,UPS,2,2-Day,Y,N,N,17.85,On Time,Shorts
+US,Newark,NJ,07101,Santa Fe,Texas,77510,2,2,14,14,3,UPS,7,Ground,N,N,N,12.7,On Time,Sweater
+US,Newark,NJ,07101,Manchester,CT,06042,4,4,11,9,3,FedEx,2,2-Day,Y,N,N,20.49,On Time,Jeans
+US,Newark,NJ,07101,Murfreesboro,TN,37128,1,1,17,13,4,DHL,5,2-Day,N,N,N,18.32,On Time,Sandals
+US,Newark,NJ,07101,NEW YORK,NY,10019-1578,1,1,10,10,6,USPS,2,2-Day,N,N,N,10.96,On Time,Sweater
+US,Newark,NJ,07101,Teague,TX,75860,2,2,13,11,6,DHL,7,2-Day,N,N,N,21.6,On Time,Hoodie
+US,Newark,NJ,07101,Shirley,NEW YORK,11967,2,2,13,9,2,USPS,2,2-Day,Y,N,N,16.33,On Time,Sweater
+US,Newark,NJ,07101,Buffalo,NY,14209,1,1,16,13,6,USPS,2,2-Day,Y,N,N,15.61,Lost,T-Shirt
+US,Newark,NJ,07101,Van Alstyne,Texas,75495,1,1,18,14,10,FedEx,7,Overnight,N,N,N,30.12,Late,Scarf
+US,Newark,NJ,07101,Miami,FLORIDA,33176-1886,1,1,8,5,2,USPS,6,2-Day,Y,N,N,20.73,On Time,Boots
+US,Newark,NJ,07101,HOUSTON,TX,77079-7428,2,2,7,6,5,FedEx,7,Ground,Y,N,N,17.65,On Time,Hoodie
+US,Newark,NJ,07101,Owasso,OK,74055-4337,3,3,7,4,4,DHL,6,2-Day,Y,N,N,25.69,On Time,Sandals
+US,Newark,NJ,07101,HARPERS FERRY,West Virginia,25425,2,2,16,13,6,USPS,4,2-Day,N,N,N,14.24,Lost,Scarf
+US,Newark,NJ,07101,Sacramento,California,95826,3,3,15,9,6,USPS,8,Overnight,N,N,N,30.12,Lost,Blouse
+US,Newark,NJ,07101,ROSELLE,NJ,07203-4001,1,1,14,9,3,USPS,2,2-Day,N,N,N,10.96,On Time,T-Shirt
+US,Newark,NJ,07101,OAKLAND,FL,34787-9051,1,1,16,16,7,FedEx,6,2-Day,Y,N,N,23.45,On Time,Jacket
+US,Newark,NJ,07101,ELK GROVE,California,95624,2,2,12,10,7,USPS,8,2-Day,Y,N,N,24.01,Lost,Skirt
+US,Newark,NJ,07101,Fort Collins,CO,80524,1,1,14,13,3,FedEx,7,2-Day,Y,N,N,24.73,Late,Skirt
+US,Newark,NJ,07101,Mc Dermott,OHIO,45652,4,4,13,11,3,USPS,4,2-Day,N,N,N,15.68,Lost,Shorts
+US,Newark,NJ,07101,White Oak,PA,15131,1,1,14,10,5,USPS,2,Ground,Y,N,N,11.5,Late,Shorts
+US,Newark,NJ,07101,Aliso Viejo,CALIFORNIA,92656,2,2,16,14,3,FedEx,8,2-Day,Y,N,N,26.73,On Time,Blouse
+US,Newark,NJ,07101,Greenville,South Carolina,29611,3,3,13,10,6,USPS,5,Ground,Y,N,N,14.8,On Time,Hoodie
+US,Newark,NJ,07101,De Motte,INDIANA,46310,2,2,12,12,1,UPS,4,2-Day,N,N,N,16.48,On Time,Sandals
+US,Newark,NJ,07101,Apple Valley,CALIFORNIA,92307,1,1,15,13,3,FedEx,8,Overnight,Y,N,N,36.69,Damaged,Shorts
+US,Newark,NJ,07101,STAMFORD,CT,06902-4623,1,1,14,14,2,USPS,2,Ground,Y,N,N,11.5,On Time,Skirt
+US,Newark,NJ,07101,Newport News,Virginia,23606,2,2,17,15,4,FedEx,3,2-Day,Y,N,N,20.33,Damaged,Hoodie
+US,Newark,NJ,07101,ELMENDORF,TX,78112,3,3,15,14,4,FedEx,7,2-Day,N,N,N,21.52,On Time,T-Shirt
+US,Newark,NJ,07101,SULPHUR,Louisiana,70665,2,2,14,13,4,FedEx,6,Overnight,Y,N,N,33.93,On Time,Jeans
+US,Newark,NJ,07101,Green Bay,Wisconsin,54313,1,1,16,15,6,FedEx,5,2-Day,N,N,N,17.52,Late,Blouse
+US,Newark,NJ,07101,Shelton,Connecticut,06484,2,2,14,10,3,USPS,2,2-Day,Y,N,N,16.33,Late,Scarf
+US,Newark,NJ,07101,San Francisco,CA,94103-3811,1,1,13,11,5,DHL,8,2-Day,N,N,N,22.16,On Time,Jeans
+US,Newark,NJ,07101,McKinleyville,California,95519,3,3,15,13,4,FedEx,8,2-Day,N,N,N,22.8,On Time,Scarf
+US,Newark,NJ,07101,Brookfield,IL,60513,1,1,12,8,6,UPS,5,2-Day,Y,N,N,21.69,On Time,Dress
+US,Newark,NJ,07101,Connellsville,PA,15425,1,1,18,14,4,UPS,2,2-Day,Y,N,N,17.85,On Time,Sneakers
+US,Newark,NJ,07101,Springfield,Missouri,65806,1,1,11,10,5,DHL,5,Overnight,Y,N,N,32.13,On Time,Blouse
+US,Newark,NJ,07101,Carol Stream,IL,60188-1382,1,1,11,7,3,UPS,5,Ground,Y,N,N,15.3,On Time,Jacket
+US,Newark,NJ,07101,Grove,OKLAHOMA,74344,3,3,14,13,4,DHL,6,Ground,N,N,N,13.15,On Time,Skirt
+US,Newark,NJ,07101,VIRGINIA BEACH,VA,23454-3272,1,1,7,6,2,FedEx,3,Ground,N,N,N,9.35,On Time,Skirt
+US,Newark,NJ,07101,Evergreen,Colorado,80439,3,3,14,10,6,DHL,7,Overnight,N,N,N,33.48,Late,Blouse
+US,Newark,NJ,07101,Harrisburg,ILLINOIS,62946,6,6,15,13,4,FedEx,5,Overnight,Y,N,N,36.33,On Time,Boots
+US,Newark,NJ,07101,PENNINGTON,AL,36916-7254,1,1,10,8,6,DHL,5,2-Day,Y,N,N,22.97,On Time,Sneakers
+US,Newark,NJ,07101,Bonner Springs,KS,66012,2,2,14,13,3,FedEx,6,2-Day,Y,N,N,24.17,On Time,Sneakers
+US,Newark,NJ,07101,IRVING,TX,75038-8319,1,1,9,8,2,FedEx,7,Ground,N,N,N,12.55,On Time,Leggings
+US,Newark,NJ,07101,Afton,WYOMING,83110,2,2,14,14,2,UPS,8,2-Day,Y,N,N,26.25,Late,Jeans
+US,Newark,NJ,07101,South Jordan,UTAH,84009,3,3,20,12,5,USPS,8,Overnight,Y,N,N,34.77,Late,Leggings
+US,Newark,NJ,07101,Lutz,Florida,33549,3,3,15,13,7,FedEx,6,2-Day,N,N,N,20.24,On Time,Sweater
+US,Newark,NJ,07101,Macedonia,Ohio,44056,1,1,17,13,6,UPS,4,2-Day,N,N,N,15.76,On Time,Boots
+US,Newark,NJ,07101,Westfield,INDIANA,46062,2,2,12,8,3,UPS,4,Overnight,Y,N,N,29.37,On Time,Dress
+US,Newark,NJ,07101,Bayville,NEW JERSEY,08721,5,5,9,7,3,UPS,2,Ground,N,N,N,10.05,On Time,Scarf
+US,Newark,NJ,07101,Drexel Hill,Pennsylvania,19026,2,2,16,13,5,UPS,2,2-Day,Y,N,N,18.57,On Time,Jacket
+US,Newark,NJ,07101,Round Hill,VA,20141,1,1,16,15,6,FedEx,3,Ground,N,N,N,9.35,On Time,Dress
+US,Newark,NJ,07101,Lake in the Hills,ILLINOIS,60156,1,1,21,12,2,USPS,5,Ground,Y,N,N,13.9,On Time,Dress
+US,Newark,NJ,07101,CARLISLE,Pennsylvania,17013-1837,2,2,14,10,4,FedEx,2,Ground,Y,N,N,13.65,On Time,Shorts
+US,Newark,NJ,07101,SAUGUS,MA,01906-3166,1,1,15,14,4,DHL,3,Ground,N,N,N,9.85,On Time,Scarf
+US,Newark,NJ,07101,Waterford,WISCONSIN,53185-4009,3,3,15,13,3,UPS,5,2-Day,Y,N,N,23.13,On Time,Jacket
+US,Newark,NJ,07101,GILBERT,SOUTH CAROLINA,29054-9287,1,1,14,10,4,USPS,5,2-Day,Y,N,N,19.45,Lost,Blouse
+US,Newark,NJ,07101,Olla,LA,71465,1,1,14,10,6,USPS,6,Ground,Y,N,N,14.7,On Time,Dress
+US,Newark,NJ,07101,Lima,OH,45805,2,2,17,15,3,UPS,4,Ground,Y,N,N,14.95,On Time,Sweater
+US,Newark,NJ,07101,Cicero,New York,13039,2,2,16,11,6,UPS,2,2-Day,Y,N,N,18.57,On Time,Blouse
+US,Newark,NJ,07101,Belmont,California,94002,3,3,15,12,4,FedEx,8,2-Day,Y,N,N,27.45,On Time,T-Shirt
+US,Newark,NJ,07101,FAYETTEVILLE,NC,28311,1,1,11,11,2,UPS,4,Ground,Y,N,N,14.5,On Time,Sweater
+US,Newark,NJ,07101,Houston,TEXAS,77007,3,3,13,13,4,FedEx,7,Overnight,N,N,N,32.28,On Time,Dress
+US,Newark,NJ,07101,Silver Spring,MARYLAND,20910,2,2,12,11,2,FedEx,2,Ground,Y,N,N,13.65,On Time,Shorts
+US,Newark,NJ,07101,San Marcos,CALIFORNIA,92078,4,4,15,13,6,USPS,8,2-Day,Y,N,N,25.45,On Time,Hoodie
+US,Newark,NJ,07101,SARASOTA,FL,34232-6084,2,2,14,14,2,USPS,6,2-Day,N,N,N,16.8,On Time,Boots
+US,Newark,NJ,07101,BLOOMINGDALE,New Jersey,07403,2,2,14,13,3,FedEx,2,Ground,N,N,N,9.0,On Time,Jacket
+US,Newark,NJ,07101,Anaheim,CA,92806,1,1,13,10,5,FedEx,8,Ground,Y,N,N,18.0,On Time,Sandals
+US,Newark,NJ,07101,Ashburn,VIRGINIA,20147,2,2,8,7,3,UPS,3,2-Day,N,N,N,15.2,On Time,Leggings
+US,Newark,NJ,07101,Camas,WASHINGTON,98607,3,3,10,7,4,UPS,8,Overnight,Y,N,N,38.13,On Time,T-Shirt
+US,Newark,NJ,07101,Greensburg,PA,15601,7,7,15,13,4,FedEx,2,2-Day,Y,N,N,22.65,On Time,Jeans
+US,Newark,NJ,07101,City Ranch,CALIFORNIA,93551,5,5,13,10,5,FedEx,8,Ground,N,N,N,15.15,Late,Coat
+US,Newark,NJ,07101,Elgin,IL,60124,2,2,8,7,3,UPS,5,Ground,N,N,N,11.1,On Time,Dress
+US,Newark,NJ,07101,Middleville,MI,49333,4,4,9,9,2,DHL,4,Ground,Y,N,N,16.65,On Time,Sneakers
+US,Newark,NJ,07101,RICHMOND,CA,94804-1623,1,1,13,6,3,UPS,8,2-Day,N,N,N,20.88,On Time,Blouse
+US,Newark,NJ,07101,Midlothian,TEXAS,76065,1,1,13,12,4,DHL,7,2-Day,Y,N,N,25.53,On Time,Jacket
+US,Newark,NJ,07101,Gainesville,FLORIDA,32601-6223,1,1,14,14,4,UPS,6,2-Day,Y,N,N,22.97,On Time,Leggings
+US,Newark,NJ,07101,Dixon,Illinois,61021,4,4,16,14,4,FedEx,5,Ground,Y,N,N,16.95,On Time,Skirt
+US,Newark,NJ,07101,Vanderbilt,TX,77991,1,1,17,14,6,UPS,7,Overnight,Y,N,N,34.05,On Time,Sweater
+US,Newark,NJ,07101,PARK CITY,UT,84098-5338,2,2,16,14,7,FedEx,8,Ground,N,N,N,13.8,On Time,Shorts
+US,Newark,NJ,07101,TENAFLY,NJ,07670-1139,1,1,15,14,3,FedEx,2,Ground,Y,N,N,13.2,On Time,Sweater
+US,Newark,NJ,07101,Salt Lake City,UT,84103-2677,2,2,8,6,5,UPS,8,2-Day,N,N,N,21.6,On Time,Shorts
+US,Newark,NJ,07101,Edinboro,PENNSYLVANIA,16412,2,2,15,14,7,UPS,2,Ground,Y,N,N,13.35,On Time,Hoodie
+US,Newark,NJ,07101,WEST VALLEY CITY,UT,84128-5552,2,2,14,10,7,UPS,8,2-Day,Y,N,N,26.25,On Time,Leggings
+US,Newark,NJ,07101,Yukon,OK,73099,1,1,16,10,9,UPS,6,2-Day,Y,N,N,22.97,On Time,Sweater
+US,Newark,NJ,07101,Prairieville,LOUISIANA,70769,2,2,11,8,5,UPS,6,Overnight,Y,N,N,33.21,On Time,Leggings
+US,Newark,NJ,07101,Round Rock,TEXAS,78664,7,7,12,11,3,FedEx,7,2-Day,Y,N,N,29.05,On Time,Boots
+US,Newark,NJ,07101,BARDSTOWN,KY,40004-2530,1,1,15,14,3,UPS,4,Overnight,Y,N,N,28.29,On Time,Sneakers
+US,Newark,NJ,07101,Phoenix,Arizona,85012,2,2,15,14,3,DHL,8,2-Day,N,N,N,22.88,On Time,Sweater
+US,Newark,NJ,07101,Oxford,MICHIGAN,48371,3,3,15,14,3,USPS,4,Ground,Y,N,N,14.0,On Time,Jeans
+US,Newark,NJ,07101,Clinton Township,MICHIGAN,48035,4,4,13,11,7,FedEx,4,2-Day,Y,N,N,23.05,On Time,Dress
+US,Newark,NJ,07101,Pearland,TX,77584,1,1,12,9,4,FedEx,7,2-Day,N,N,N,20.08,On Time,Jeans
+US,Newark,NJ,07101,Lynchburg,MO,65543,2,2,8,8,5,UPS,5,2-Day,Y,N,N,22.41,On Time,Sneakers
+US,Newark,NJ,07101,Schaefferstown,PENNSYLVANIA,17088,7,7,12,8,6,UPS,2,Ground,Y,N,N,15.6,On Time,Dress
+US,Newark,NJ,07101,Renton,WASHINGTON,98059-7209,1,1,10,7,5,FedEx,8,2-Day,Y,N,N,26.01,On Time,Boots
+US,Newark,NJ,07101,Norfolk,Virginia,23503,5,5,13,11,4,USPS,3,Ground,Y,N,N,14.1,On Time,Skirt
+US,Newark,NJ,07101,RICES LANDING,PA,15357-2166,1,1,15,13,5,USPS,2,2-Day,Y,N,N,15.61,On Time,Blouse
+US,Newark,NJ,07101,Dearborn Heights,MICHIGAN,48127,5,5,12,7,3,UPS,4,Ground,Y,N,N,16.3,On Time,Dress
+US,Newark,NJ,07101,Mission Viejo,CALIFORNIA,92692,2,2,15,13,3,FedEx,8,Overnight,Y,N,N,37.77,On Time,Hoodie
+US,Newark,NJ,07101,Oak Island,NORTH CAROLINA,28465,3,3,16,13,6,FedEx,4,2-Day,Y,N,N,22.33,On Time,Dress
+US,Newark,NJ,07101,Kenosha,WISCONSIN,53143,2,2,14,9,9,FedEx,5,Ground,Y,N,N,16.05,On Time,Sweater
+US,Newark,NJ,07101,N LAS VEGAS,NV,89084-2629,1,1,9,6,5,FedEx,8,2-Day,N,N,N,21.36,On Time,Boots
+US,Newark,NJ,07101,HAWESVILLE,Kentucky,42348,4,4,13,9,5,UPS,4,2-Day,Y,N,N,22.57,On Time,Sweater
+US,Newark,NJ,07101,Ashland,MA,01721,2,2,13,12,4,USPS,3,2-Day,N,N,N,12.96,On Time,Scarf
+US,Newark,NJ,07101,Wilton,CONNECTICUT,06897,2,2,13,10,3,FedEx,2,2-Day,Y,N,N,19.05,On Time,Shorts
+US,Newark,NJ,07101,Joshua Tree,CALIFORNIA,92252,2,2,9,9,5,UPS,8,2-Day,Y,N,N,26.25,On Time,Skirt
+US,Newark,NJ,07101,Ogden,UTAH,84401,3,3,14,14,7,UPS,8,Overnight,Y,N,N,38.13,On Time,Dress
+US,Newark,NJ,07101,Chico,CALIFORNIA,95926,2,2,16,13,7,FedEx,8,2-Day,N,N,N,22.08,On Time,Sneakers
+US,Newark,NJ,07101,Surprise,AZ,85374,1,1,14,6,8,UPS,8,Overnight,Y,N,N,35.97,On Time,Blouse
+US,Newark,NJ,07101,SAN ANTONIO,TX,78230-5635,11,11,14,13,2,UPS,7,2-Day,Y,N,N,31.45,On Time,T-Shirt
+US,Newark,NJ,07101,Cincinnati,OH,45233,1,1,8,6,5,FedEx,4,Ground,Y,N,N,14.8,On Time,Hoodie
+US,Newark,NJ,07101,Batavia,Ohio,45103,1,1,15,13,3,UPS,4,Ground,Y,N,N,14.5,On Time,T-Shirt
+US,Newark,NJ,07101,Pageland,SC,29728,2,2,11,8,3,FedEx,5,2-Day,N,N,N,18.24,On Time,Dress
+US,Newark,NJ,07101,Linwood,NJ,08221,2,2,13,11,7,USPS,2,2-Day,Y,N,N,16.33,On Time,Leggings
+US,Newark,NJ,07101,OLIVE BRANCH,MS,38654-3541,1,1,15,9,6,USPS,6,Ground,Y,N,N,14.7,On Time,Scarf
+US,Newark,NJ,07101,Hazelwood,Missouri,63042,2,2,16,11,4,FedEx,5,Ground,N,N,N,11.4,On Time,Skirt
+US,Newark,NJ,07101,Howell,NEW JERSEY,07731,1,1,15,13,4,UPS,2,2-Day,Y,N,N,17.85,On Time,Skirt
+US,Newark,NJ,07101,Bristol,VA,24202,1,1,14,10,6,FedEx,3,Ground,N,N,N,9.35,On Time,Boots
+US,Newark,NJ,07101,San Antonio,Texas,78230,2,2,10,10,3,DHL,7,Ground,Y,N,N,18.15,On Time,Blouse
+US,Newark,NJ,07101,Las Vegas,NV,89141,4,4,14,12,4,UPS,8,2-Day,N,N,N,23.04,On Time,Leggings
+US,Newark,NJ,07101,Kannapolis,North Carolina,28081,2,2,16,13,4,FedEx,4,Overnight,N,N,N,25.44,Damaged,Skirt
+US,Newark,NJ,07101,Massillon,Ohio,44646,1,1,15,14,3,FedEx,4,2-Day,Y,N,N,20.89,Late,Jeans
+US,Newark,NJ,07101,Leesville,LOUISIANA,71446,1,1,12,11,6,USPS,6,Overnight,Y,N,N,28.77,On Time,T-Shirt
+US,Newark,NJ,07101,Cincinnati,OHIO,45231,2,2,15,15,4,UPS,4,2-Day,Y,N,N,21.13,Late,Sandals
+US,Newark,NJ,07101,Hopkinton,MA,01748,1,1,17,14,7,USPS,3,Ground,N,N,N,7.65,On Time,Sneakers
+US,Newark,NJ,07101,Canton,MO,63435-3326,2,2,14,12,5,UPS,5,2-Day,Y,N,N,22.41,On Time,Sneakers
+US,Newark,NJ,07101,Madison,OHIO,44057,1,1,11,10,3,DHL,4,2-Day,N,N,N,17.04,On Time,Shorts
+US,Newark,NJ,07101,Lansing,Michigan,48917,1,1,21,13,6,UPS,4,2-Day,Y,N,N,20.41,On Time,Dress
+US,Newark,NJ,07101,Elora,TN,37328,7,7,10,9,6,DHL,5,2-Day,N,N,N,22.64,Lost,Blouse
+US,Newark,NJ,07101,FRISCO,TX,75035,14,14,12,10,2,USPS,7,2-Day,Y,N,N,31.37,On Time,Sandals
+US,Newark,NJ,07101,Felton,PENNSYLVANIA,17322,3,3,13,9,6,UPS,2,Ground,N,N,N,9.15,On Time,Sandals
+US,Newark,NJ,07101,Akron,Ohio,44321,3,3,15,10,7,USPS,4,Overnight,Y,N,N,27.09,Lost,Shorts
+US,Newark,NJ,07101,TORRANCE,CA,90504-4236,2,2,12,10,4,UPS,8,Ground,N,N,N,13.5,On Time,Jeans
+US,Newark,NJ,07101,FORT MADISON,Iowa,52627,2,2,12,11,3,USPS,5,Overnight,Y,N,N,27.93,Late,Jeans
+US,Newark,NJ,07101,CINCINNATI,OH,45244-5024,1,1,14,13,2,UPS,4,2-Day,Y,N,N,20.41,Late,Sandals
+US,Newark,NJ,07101,Woodruff,SOUTH CAROLINA,29388,1,1,15,14,4,USPS,5,2-Day,Y,N,N,19.45,On Time,Leggings
+US,Newark,NJ,07101,Cumming,Georgia,30040-5313,2,2,19,14,5,USPS,5,Overnight,Y,N,N,27.93,On Time,Hoodie
+US,Newark,NJ,07101,LEESBURG,Virginia,20176,2,2,14,11,6,UPS,3,Overnight,Y,N,N,27.45,On Time,Leggings
+US,Newark,NJ,07101,orange park,FLORIDA,32065,1,1,11,9,5,FedEx,6,Overnight,N,N,N,28.2,On Time,T-Shirt
+US,Newark,NJ,07101,Jemison,AL,35085,4,4,17,15,3,FedEx,5,Ground,Y,N,N,16.95,On Time,Boots
+US,Newark,NJ,07101,West Islip,NY,11795-5132,1,1,12,8,6,UPS,2,2-Day,N,N,N,13.2,On Time,Shorts
+US,Newark,NJ,07101,Miramar,FLORIDA,33029,1,1,10,9,8,USPS,6,Ground,Y,N,N,14.7,On Time,Scarf
+US,Newark,NJ,07101,Phoenix,AZ,85044-2730,1,1,14,14,2,UPS,8,2-Day,Y,N,N,25.53,On Time,Jeans
+US,Newark,NJ,07101,Knoxville,Tennessee,37919,3,3,7,6,3,UPS,5,2-Day,N,N,N,18.48,On Time,Leggings
+US,Newark,NJ,07101,THE WOODLANDS,TX,77381-3840,2,2,10,8,6,FedEx,7,2-Day,Y,N,N,25.45,On Time,Sandals
+US,Newark,NJ,07101,Denver,CO,80230-6784,1,1,15,14,5,FedEx,7,2-Day,Y,N,N,24.73,On Time,Sneakers
+US,Newark,NJ,07101,Orlando,FLORIDA,32822,1,1,19,15,6,FedEx,6,2-Day,N,N,N,18.8,On Time,Scarf
+US,Newark,NJ,07101,Astoria,NY,11102,11,11,15,13,6,FedEx,2,2-Day,N,N,N,20.88,On Time,Blouse
+US,Newark,NJ,07101,sterling hts,MI,48313,1,1,15,13,7,FedEx,4,Overnight,Y,N,N,29.01,On Time,Hoodie
+US,Newark,NJ,07101,PALM BAY,FL,32907,1,1,17,12,3,UPS,6,Ground,Y,N,N,16.1,On Time,Leggings
+US,Newark,NJ,07101,WYTHEVILLE,VA,24382-1444,1,1,15,14,2,FedEx,3,Ground,Y,N,N,14.0,On Time,Blouse
+US,Newark,NJ,07101,Somerset,New Jersey,08873,3,3,12,10,4,FedEx,2,Ground,N,N,N,9.45,On Time,Scarf
+US,Newark,NJ,07101,Phoenix,ARIZONA,85029,6,6,18,13,4,UPS,8,Overnight,N,N,N,36.72,On Time,Sandals
+US,Newark,NJ,07101,Spring,TX,77379,8,8,14,14,3,USPS,7,2-Day,N,N,N,22.4,On Time,Jacket
+US,Newark,NJ,07101,Edgemoor,SC,29712,1,1,14,13,4,FedEx,5,Overnight,Y,N,N,30.93,On Time,Leggings
+US,Newark,NJ,07101,Pittsburgh,PENNSYLVANIA,15223,2,2,13,9,6,UPS,2,Ground,N,N,N,8.7,On Time,Shorts
+US,Newark,NJ,07101,Discovery Bay,CALIFORNIA,94505,4,4,14,12,6,UPS,8,Ground,Y,N,N,19.05,Late,Hoodie
+US,Newark,NJ,07101,FEDERAL WAY,WA,98003-4287,1,1,23,14,4,UPS,8,Overnight,Y,N,N,35.97,On Time,Boots
+US,Newark,NJ,07101,Altoona,Alabama,35952-6610,2,2,16,13,7,FedEx,5,Overnight,N,N,N,27.36,On Time,Sweater
+US,Newark,NJ,07101,Tenafly,NEW JERSEY,07670,1,1,7,6,2,UPS,2,Ground,Y,N,N,12.9,On Time,Dress
+US,Newark,NJ,07101,HOUSE SPRINGS,MO,63051-2267,1,1,7,6,3,DHL,5,Ground,N,N,N,11.45,On Time,Dress
+US,Newark,NJ,07101,AUBURN,Washington,98092,2,2,15,13,3,UPS,8,Ground,N,N,N,13.5,On Time,Jacket
+US,Newark,NJ,07101,LATHAM,NY,12110-3766,1,1,15,14,4,UPS,2,Overnight,Y,N,N,24.45,Late,Jacket
+US,Newark,NJ,07101,North Las Vegas,Nevada,89084,2,2,9,8,2,USPS,8,2-Day,Y,N,N,24.01,On Time,T-Shirt
+US,Newark,NJ,07101,Houston,TX,77042-1221,1,1,13,10,3,USPS,7,2-Day,N,N,N,17.36,On Time,Hoodie
+US,Newark,NJ,07101,spring,TX,77388,1,1,15,14,3,UPS,7,Ground,Y,N,N,16.9,On Time,Sneakers
+US,Newark,NJ,07101,Petersburg,KENTUCKY,41080,2,2,15,13,5,FedEx,4,Overnight,Y,N,N,30.09,On Time,Shorts
+US,Newark,NJ,07101,Bonnieville,KENTUCKY,42713,2,2,15,14,3,UPS,4,Ground,Y,N,N,14.95,On Time,Sneakers
+US,Newark,NJ,07101,Mackinaw City,MICHIGAN,49701,4,4,15,13,7,USPS,4,2-Day,N,N,N,15.68,On Time,Boots
+US,Newark,NJ,07101,Arlington,MA,02476,3,3,15,14,3,USPS,3,2-Day,Y,N,N,18.33,On Time,Sneakers
+US,Newark,NJ,07101,NORTH LAS VEGAS,NV,89081-3406,1,1,7,5,2,DHL,8,2-Day,Y,N,N,26.81,On Time,Sneakers
+US,Newark,NJ,07101,Metairie,Louisiana,70001,3,3,11,7,3,UPS,6,Overnight,Y,N,N,34.29,On Time,Leggings
+US,Newark,NJ,07101,Glenview,Illinois,60026,2,2,13,13,8,USPS,5,Ground,N,N,N,9.7,On Time,Scarf
+US,Newark,NJ,07101,Birmingham,Alabama,35243,2,2,13,11,3,UPS,5,2-Day,Y,N,N,22.41,On Time,Boots
+US,Newark,NJ,07101,Lynn Haven,FLORIDA,32444,3,3,14,13,4,UPS,6,Ground,Y,N,N,17.0,On Time,Jeans
+US,Newark,NJ,07101,Riverside,Rhode Island,02915,5,5,16,13,12,FedEx,3,Ground,N,N,N,11.15,On Time,Scarf
+US,Newark,NJ,07101,Grand Rapids,MICHIGAN,49534,1,1,13,11,3,FedEx,4,Ground,Y,N,N,14.8,On Time,Sandals
+US,Newark,NJ,07101,Las Vegas,Nevada,89178,4,4,15,10,7,UPS,8,2-Day,N,N,N,23.04,On Time,Coat
+US,Newark,NJ,07101,Meriden,Connecticut,06450,1,1,13,11,6,FedEx,2,Ground,Y,N,N,13.2,On Time,Scarf
+US,Newark,NJ,07101,Crete,ILLINOIS,60417,2,2,8,8,2,FedEx,5,Overnight,N,N,N,27.36,On Time,Coat
+US,Newark,NJ,07101,Woodland,CALIFORNIA,95776,3,3,12,7,4,UPS,8,Ground,N,N,N,13.95,On Time,Jeans
+US,Newark,NJ,07101,Pompano Beach,FLORIDA,33064,1,1,15,12,7,UPS,6,2-Day,Y,N,N,22.97,On Time,Leggings
+US,Newark,NJ,07101,Chanhassen,MN,55317,1,1,13,12,3,FedEx,6,2-Day,Y,N,N,23.45,On Time,Jacket
+US,Newark,NJ,07101,Los Angeles,CALIFORNIA,90033-1917,1,1,15,14,3,UPS,8,Overnight,Y,N,N,35.97,On Time,Boots
+US,Newark,NJ,07101,Edgewater,MARYLAND,21037,3,3,16,13,4,FedEx,2,2-Day,N,N,N,15.12,On Time,Leggings
